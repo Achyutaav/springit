@@ -1,4 +1,4 @@
-package repository;
+package com.achyut.springit.repository;
 
 import com.achyut.springit.domain.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;

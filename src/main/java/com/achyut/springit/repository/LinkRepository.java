@@ -1,4 +1,4 @@
-package repository;
+package com.achyut.springit.repository;
 
 import com.achyut.springit.domain.Link;
 import org.springframework.data.jpa.repository.JpaRepository;
